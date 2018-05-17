@@ -1,0 +1,19 @@
+{
+  "version": 8,
+  "name": "Klokantech Basic",
+  "center": [
+    8.54806714892635,
+    47.37180823552663
+  ],
+  "zoom": 12.241790506353492,
+  "bearing": 0,
+  "pitch": 0,
+  "sources": {
+    "openmaptiles": {
+      "type": "vector",
+      "url": "/js/mapboxV3.json"
+    }
+  },
+  "glyphs": "https://where.you.host.your.tiles/fonts/{fontstack}/{range}.pbf",
+  "layers": [ "checkout https://github.com/mapbox/mapbox-gl-styles/tree/master/styles for what should go here" ]
+}
